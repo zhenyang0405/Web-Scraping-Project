@@ -1,6 +1,6 @@
 # Automating WebScraping using Cloud Run
 
-A demonstration on how to use Python to automate the process of getting the latest camera’s prices from Moment website by using Cloud Run.
+A demonstration on how to use Python to automate the process of getting the latest camera’s prices from [Moment](https://www.shopmoment.com/) website by using Cloud Run.
 
 Cloud Run is a managed compute platform that enables you to run containers that are invocable via requests or events. Cloud Run is serverless.
 
@@ -33,9 +33,9 @@ Once all the process had been successfully ended. Cloud Run will stop the contai
 
 ## Technologies Stack
 1. Python
-2. Selenium
-3. Flask
-4. BeautifulSoup
-5. Requests
+2. [Selenium](https://www.selenium.dev/)
+3. [Flask](https://flask.palletsprojects.com/en/2.0.x/)
+4. [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+5. [Requests](https://docs.python-requests.org/en/latest/)
 6. Google Spreadsheet
-7. Google Cloud Run
+7. Google [Cloud Run](https://cloud.google.com/run)
