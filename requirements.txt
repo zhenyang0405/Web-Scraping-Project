@@ -1,0 +1,10 @@
+selenium==3.141.0
+chromedriver-binary==93.0.4577.63
+requests==2.26.0
+gspread==4.0.1
+pandas==1.3.3
+beautifulsoup4==4.10.0
+google-oauth==1.0.1
+Flask==2.0.1
+gunicorn==20.1.0
+webdriver-manager==3.5.1
